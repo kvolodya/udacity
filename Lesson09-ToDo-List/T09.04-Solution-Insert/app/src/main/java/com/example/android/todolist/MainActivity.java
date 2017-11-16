@@ -175,7 +175,7 @@ public class MainActivity extends AppCompatActivity implements
      * Called when a previously created loader is being reset, and thus
      * making its data unavailable.
      * onLoaderReset removes any references this activity had to the loader's data.
-     *sdf sdfs dfs dfSg z
+     *sdf sdfs dfs dfSg z szdfg sdfg xdfhxdfxfgh
      * @param loader The Loader that is being reset.
      */
     @Override
